@@ -1,0 +1,143 @@
+{
+  "name": "Lokesh Vinod Chandawar",
+  "designation": "Senior Frontend Developer",
+  "email": "chandawarlokesh@gmail.com",
+  "mobile": "9021433312",
+  "alt_mobile": "9834096173",
+  "permanent_address": "Near City Post Office, Bazar Ward, Chandarapur, Maharashtra, India 442402",
+  "current_address": {
+    "area": "Dhanori",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "county": "India",
+    "pin_code": "411015"
+  },
+  "profile": {
+    "color_photo": "./profile.jpg",
+    "black_photo": "./profile.jpg"
+  },
+
+  "creddle": "https://resume.creddle.io/resume/4fkp8qjayx9",
+  "social_media": [
+    {
+      "name": "linkedin",
+      "icon": "bxl-linkedin",
+      "uri": "https://www.linkedin.com/in/chandawarlokesh"
+    },
+    {
+      "name": "peer list",
+      "icon": "bxs-parking",
+      "uri": "https://peerlist.io/chandawarlokesh"
+    },
+    {
+      "name": "github",
+      "icon": "bxl-github",
+      "uri": "https://github.com/chandawarlokesh/"
+    },
+    {
+      "name": "stack overflow",
+      "icon": "bxl-stack-overflow",
+      "uri": "https://stackoverflow.com/users/5396025/chandawarlokesh"
+    },
+    {
+      "name": "facebook",
+      "icon": "bxl-facebook",
+      "uri": "https://www.facebook.com/chandawarlokesh"
+    },
+    {
+      "name": "twitter",
+      "icon": "bxl-twitter",
+      "uri": "https://twitter.com/chandawarlokesh"
+    },
+    {
+      "name": "gmail",
+      "icon": "bxl-gmail",
+      "uri": "mailto:chandawarlokesh@gmail.com"
+    }
+  ],
+  "summary": "Lead Frontend Developer | Full Stack | Freelancer",
+  "experiences": [
+    {
+      "title": "Full Stack Developer",
+      "organization": "Freelancer",
+      "location": "India",
+      "icon": "buildings",
+      "duration": "July 2015 - Present"
+    },
+    {
+      "title": "Senior Frontend Developer (ENO)",
+      "organization": "Credit Suisse",
+      "location": "Pune",
+      "icon": "buildings",
+      "duration": "May 2021 - Present"
+    },
+    {
+      "title": "Associate Technical Lead",
+      "organization": "Harbinger Group",
+      "location": "Pune",
+      "icon": "buildings",
+      "duration": "July 2020 - May 2021"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "organization": "Harbinger Group",
+      "location": "Pune",
+      "icon": "buildings",
+      "duration": "Jan 2018 - Jun 2020"
+    },
+    {
+      "title": "Software Engineer",
+      "organization": "Harbinger Group",
+      "location": "Pune",
+      "icon": "buildings",
+      "duration": "Jan 2016 - Dec 2017"
+    },
+    {
+      "title": "Trainee Software Engineer",
+      "organization": "Harbinger Group",
+      "location": "Pune",
+      "icon": "buildings",
+      "duration": "July 2015 - Dec 2015"
+    }
+  ],
+  "educations": [
+    {
+      "school": "AISSMS College of Engineering",
+      "university": "Savitribai Phule Pune University",
+      "location": "Pune",
+      "degree": "Bachelor of Engineering",
+      "field": "Computer Science",
+      "duration": "2011 - 2015",
+      "icon": "graduation"
+    },
+    {
+      "school": "Janata Mahavidyalaya",
+      "university": "State Board",
+      "location": "Chandrapur",
+      "degree": "Higher Secondary School Certificate",
+      "field": "",
+      "duration": "2011",
+      "icon": "school"
+    },
+    {
+      "school": "Lokmanya Tilak Vidyalaya",
+      "university": "State Board",
+      "location": "Chandrapur",
+      "degree": "Secondary School Certificate",
+      "field": "",
+      "duration": "2009",
+      "icon": "school"
+    }
+  ],
+  "skills": [
+    ["JavaScript", "TypeScript", "HTML", "CSS"],
+    ["ReactJs", "AngularJs", "jQuery", "Micro Frontend"],
+    ["Jest", "Enzyme", "React-testing-library"],
+    ["WCAG 2.0", "React Native", "Xamarin", "PhoneGap", "Cordova", "Ionic"],
+    ["NodeJs", "PHP", "C#", ".Net Core"],
+    ["DevOps", "Design System", "Solution Architecture", "Support", "Tools"],
+    ["Agile", "Team Management", "Mentoring", "Leader"],
+    ["SQL", "MySQL"],
+    ["WCAG 2.0", "i18n", "GIT", "SVN", "Puppeteer", "GoogleMap"]
+  ]
+}
