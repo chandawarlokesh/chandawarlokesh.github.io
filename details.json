@@ -17,7 +17,10 @@
     "black_photo": "./profile.jpg"
   },
 
-  "creddle": "https://resume.creddle.io/resume/4fkp8qjayx9",
+  "resume": {
+    "uri": "https://resume.creddle.io/resume/4fkp8qjayx9",
+    "qrcode_uri": "./qrcode.png"
+  },
   "social_media": [
     {
       "name": "linkedin",
