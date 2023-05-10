@@ -10,7 +10,8 @@
     "city": "Pune",
     "state": "Maharashtra",
     "county": "India",
-    "pin_code": "411015"
+    "pin_code": "411015",
+    "map_uri": "https://www.google.com/maps/dir//REDDY+TRADERS,+Sri+Venkateshwara+Nilayam,+Sr.No+67%2F1B%2F4%2F1,+Road+no+-+11%2F2+Bhairavnagar+Opp.+to+Shri+Hans+Nagar,+Dhanori,+Pune,+Maharashtra+411015/@18.5882111,73.889054,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c781d5325f01:0x37ac73f56dd4a14a!2m2!1d73.8916289!2d18.588206!3e0"
   },
   "profile": {
     "color_photo": "./profile.jpg",
@@ -19,7 +20,8 @@
 
   "resume": {
     "uri": "https://resume.creddle.io/resume/4fkp8qjayx9",
-    "qrcode_uri": "./qrcode.png"
+    "qrcode_uri": "./qrcode.png",
+    "qrcode_white_uri": "./qrcode-white.png"
   },
   "social_media": [
     {
